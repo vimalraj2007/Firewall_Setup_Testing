@@ -6,8 +6,8 @@ Configured firewall rules on Windows and Kali Linux (UFW) to control network tra
 
 ---
 ## 🛠️ Tools
-Windows Firewall
-UFW (Kali Linux)
+Windows Firewall,
+UFW (Kali Linux),
 Nmap
 
 ---
