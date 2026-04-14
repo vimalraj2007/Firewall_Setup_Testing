@@ -13,12 +13,12 @@ Nmap
 ---
 
 ## ⚙️ Rules Applied
-❌ Blocked: 21 (FTP), 23 (Telnet)
+❌ Blocked: 21 (FTP), 23 (Telnet) ||
 ✅ Allowed: 22 (SSH), 443 (HTTPS), 3389 (RDP)
 
 ---
 ## 🧪 Testing
-nmap <target-ip>
+nmap 127.0.0.1
 
 ---
 ## 🔍 Result
