@@ -5,23 +5,23 @@
 Configured firewall rules on Windows and Kali Linux (UFW) to control network traffic and improve security.
 
 ---
-🛠️ Tools
+## 🛠️ Tools
 Windows Firewall
 UFW (Kali Linux)
 Nmap
 
 ---
 
-⚙️ Rules Applied
+## ⚙️ Rules Applied
 ❌ Blocked: 21 (FTP), 23 (Telnet)
 ✅ Allowed: 22 (SSH), 443 (HTTPS), 3389 (RDP)
 
 ---
-🧪 Testing
+## 🧪 Testing
 nmap <target-ip>
 
 ---
-🔍 Result
+## 🔍 Result
 Blocked ports → Filtered ❌
 Allowed ports → Open ✅
 
@@ -38,12 +38,12 @@ Firewall_setup_Testing
 
 
 ---
-🛡️ Conclusion
+## 🛡️ Conclusion
 
 Firewall reduces risk by blocking insecure services and allowing only required traffic.
 
 ---
-👤 Author
+## 👤 Author
 
 Vimal Raj R
 ---
